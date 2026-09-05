@@ -22,7 +22,22 @@ building
 testing
 deploying
 
+All these process via below model
+1.waterfall model, 
+2.Agie model (short sprint) 
+
+
 
 here where devops comes into picture?
 
-building phase - developing is this application has to be developed
+building phase - Developing is this application has to be developed 
+                ( developer read jira and wrote the code & push to GTI sourec code repository 
+                  like centralized or distrubuted repository)
+Testing phase - QA- quality assurance team teste the s/w
+deployment phase- promote the application into the server ( like staging/production etc
+
+
+devops it nothing but a culture, improving organiztion efficneny
+devops fasten the process to devliery the process quickly
+without any manual internvention & everything is automated 
+
