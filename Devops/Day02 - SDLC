@@ -1,0 +1,28 @@
+software development lifecycle - sdlc
+-------------------------------------
+
+EVERY organization follow a specfic standards
+
+it is a process used by every s/w industry to design, develop & to Test
+
+Design
+develop
+Test
+
+Actual endgoal of sdlc - to delivery a high quality product
+
+for eg:
+
+this is for an e-commeerce aPPLICATION, they folow this cycle
+
+planning      ( here requirement gathering take place )
+defining      ( documenting s/w requiremnet specification document
+designing      (  high/low level design    - architect & TL's )
+building
+testing
+deploying
+
+
+here where devops comes into picture?
+
+building phase - developing is this application has to be developed
