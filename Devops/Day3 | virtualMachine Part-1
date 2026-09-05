@@ -1,0 +1,32 @@
+Day3 | virtualMachine Part-1
+----------------------------
+
+hint: devops is all about improving the efficiency!
+
+hat is server?
+
+you have deployed a application should get hosted on a public server so that other can access that
+is called server
+
+infosys bought 5 server differnet sizes from amazon
+app1 is deployed on server( using 4gb and 4 processros)
+but server have 100gb and 100core capacity but appliction need just 4gb/4core
+
+-inefficieny - means team are underutilzing the effiecney of the server which has 100gb storage.
+concept of virtulization came into picure!
+
+what is virtual server?
+
+let's say you bought an server from IBM and one server you can install hypervisor
+we are logically seperation of 1 server1 ( logical isolation )
+we added efficienty using devops ( by using Hypervisor)
+
+VMware, Xen etc - hypervisor ( creating your virtual machine)
+
+------------
+let;s say amazon build a datacenter in mumbai ( instlaling phyical center by prevnting care)
+they install million of physical server! & they put them in a DC
+
+on those physical server hypervisor got installed and will create a VM for you and you can use that
+
+
